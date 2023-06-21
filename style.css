@@ -240,6 +240,6 @@ form {
   position: absolute;
   width: 100%;
   left: 0;
-  bottom: -100px;
+  bottom: -40px;
   color: var(--clr-light);
 }
